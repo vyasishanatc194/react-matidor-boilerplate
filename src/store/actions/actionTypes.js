@@ -1,0 +1,6 @@
+export const SET_USER_DATA = 'SET_USER_DATA';
+export const SET_AUTH_ERRORS = 'SET_AUTH_ERRORS';
+
+export const SET_AUTH_REDIRECT_PATH = 'SET_AUTH_REDIRECT_PATH';
+export const AUTH_LOGOUT = 'AUTH_LOGOUT';
+export const SET_TOKEN = 'SET_TOKEN';
