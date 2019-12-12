@@ -124,7 +124,7 @@ class LoginComponent extends Component {
                             {
                                 this.state.errors.password ?
                                     <span className="text-left text-red float-left m-t-10 m-b10">
-                                        Password is required to be between 6 and 12 characters long and contain at least one digit and one non-digit character.
+                                        Password is required to be between 6 and 12 characters long.
                                     </span>
                                 : ''
                             }
